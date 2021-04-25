@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**paulinaeb/paulinaeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a ✨Computer Science Engineering Student and Software developer in constant learning✨
 
-Here are some ideas to get you started:
+- 💖 I define myself as proactive, good listener and kind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal and teamwork projects based on web development and web accessibility
+
+- 👩🏼‍💻 I work with technologies like JavaScript, HTML, CSS, SQL, React, PHP and Java
+
+- 🤓 I’m currently learning data science and deep funcionalities of the technologies I work with
+
+- 💬 Ask me about databases, data structures or any logic for specific tasks
+
+- ⚡ Fun facts: 
+- ✨ I use to design flyers, images, collages and logos as a hobby 
+- 💻 I'm self-taught on most of the technologies I work with
+- ✌ I'm always learning something new!
+
+- 📫 How to reach me: 
+🔗 https://www.linkedin.com/in/paulinaeb/
+🔗 mail to: pdespejo18@gmail.com
