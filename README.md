@@ -1,6 +1,6 @@
-<h2>Hey there! I'm Paulina</h2>
+<h2>Hey there! I'm Paulina👋</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
