@@ -12,7 +12,7 @@
  &nbsp;⚡ Fun facts: \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
  &nbsp;💚 Im a Platzi student\
- &nbsp; I'm always learning something new!✌ \
+ &nbsp; I'm always learning something new!✌ 
 
 ### 🛠 &nbsp;Tech Stack
 
