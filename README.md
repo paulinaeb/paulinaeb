@@ -10,7 +10,9 @@
  &nbsp;🤓 I’m currently learning data science and deep funcionalities of the technologies I work with\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp;⚡ Fun facts: \
- &nbsp;💻 I'm self-taught on most of the technologies I work with 💚 Platzi student ✌ I'm always learning something new!
+ &nbsp;💻 I'm self-taught on most of the technologies I work with \
+ &nbsp;💚 Im a Platzi student\
+ &nbsp; I'm always learning something new!✌ \
 
 ### 🛠 &nbsp;Tech Stack
 
