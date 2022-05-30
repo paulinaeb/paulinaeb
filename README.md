@@ -7,7 +7,7 @@
  &nbsp;I'm a Software Engineer in constant learning✨\
  &nbsp;I define myself as proactive, good listener and kind💖\
  &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and web accessibility\
- &nbsp;🤓 I’m currently learning data science\
+ &nbsp;🤓 I’m learning data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp;⚡ Fun facts: \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 
 &nbsp; #SQL #PostgreSql #MySql #PHP
 
