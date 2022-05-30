@@ -11,6 +11,7 @@
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp; 
  &nbsp; Just facts: \
+ &nbsp; No big talents, only passionately tech enthusiast
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
  &nbsp;⚡ I'm always learning something new
 
@@ -18,6 +19,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
