@@ -1,6 +1,4 @@
-<h3>Hey there! I'm Paulina👋</h3>
-
-
+<h3>Hey there! I'm Pau👋</h3>
 
 #### 👨🏻‍💻 &nbsp;About Me
 
