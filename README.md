@@ -9,7 +9,7 @@
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp; \
  Just facts: \
- &nbsp; No big talents, only passionately tech enthusiast
+ &nbsp;No big talents, only passionately tech enthusiast \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
  &nbsp;⚡ I'm always learning something new
 
