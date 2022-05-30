@@ -10,7 +10,7 @@
  &nbsp; \
  Just facts: \
  &nbsp;No big talents, only passionately tech enthusiast \
- &nbsp;💻 I'm self-taught on most of the technologies I work with \
+ &nbsp;💻 I'm self-taught on most technologies I work with \
  &nbsp;⚡ I'm always learning something new
 
 #### 🛠 &nbsp;Tech Stack
