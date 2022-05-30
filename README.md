@@ -8,7 +8,7 @@
  &nbsp;🤓 I’m learning robotics and data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp; \
- ####Just facts: \
+ #### Just facts: \
  &nbsp;No big talents, only passionately tech enthusiast \
  &nbsp;💻 I'm self-taught on most technologies I work with \
  &nbsp;⚡ I'm always learning something new
