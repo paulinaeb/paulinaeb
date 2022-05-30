@@ -9,11 +9,12 @@
  &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and accessibility\
  &nbsp;🤓 I’m learning robotics and data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
- &nbsp;⚡ Fun facts: \
+ &nbsp; 
+ &nbsp; Just facts: \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
- &nbsp;✌ I'm always learning something new
+ &nbsp;⚡ I'm always learning something new
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,7 +30,7 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=NoSQL)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/paulinaeb"><img src="https://img.shields.io/badge/-Paulina%20Espejo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
