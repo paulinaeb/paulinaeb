@@ -6,8 +6,8 @@
 
  &nbsp;I'm a Software Engineer in constant learning✨\
  &nbsp;I define myself as proactive, good listener and kind💖\
- &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and web accessibility\
- &nbsp;🤓 I’m learning data science\
+ &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and accessibility\
+ &nbsp;🤓 I’m learning robotics and data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp;⚡ Fun facts: \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
