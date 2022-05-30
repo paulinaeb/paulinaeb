@@ -1,8 +1,8 @@
-<h2>Hey there! I'm Paulina👋</h2>
+<h3>Hey there! I'm Paulina👋</h3>
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+#### 👨🏻‍💻 &nbsp;About Me
 
  &nbsp;I'm a Software Engineer in constant learning✨\
  &nbsp;I define myself as proactive, good listener and kind💖\
@@ -14,7 +14,7 @@
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
  &nbsp;⚡ I'm always learning something new
 
-## 🛠 &nbsp;Tech Stack
+#### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -30,7 +30,7 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=NoSQL)&nbsp;
 
 
-## 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/paulinaeb"><img src="https://img.shields.io/badge/-Paulina%20Espejo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
