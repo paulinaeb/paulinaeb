@@ -7,7 +7,7 @@
  &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and accessibility\
  &nbsp;🤓 I’m learning robotics and data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
- &nbsp; 
+ 
  #### Just facts: 
  &nbsp;No big talents, only passionately tech enthusiast \
  &nbsp;💻 I'm self-taught on most technologies I work with \
