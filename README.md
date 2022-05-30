@@ -4,14 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- &nbsp;I'm a ✨Computer Science Engineering Student and Software developer in constant learning✨\
+ &nbsp;I'm a Software Engineer in constant learning✨\
  &nbsp;I define myself as proactive, good listener and kind💖\
  &nbsp;🔭 I’m currently working on personal and teamwork projects based on web development and web accessibility\
- &nbsp;🤓 I’m currently learning data science and deep funcionalities of the technologies I work with\
+ &nbsp;🤓 I’m currently learning data science\
  &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks\
  &nbsp;⚡ Fun facts: \
  &nbsp;💻 I'm self-taught on most of the technologies I work with \
- &nbsp;💚 Im a Platzi student\
  &nbsp; I'm always learning something new!✌ 
 
 ### 🛠 &nbsp;Tech Stack
