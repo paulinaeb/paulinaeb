@@ -5,7 +5,7 @@
  &nbsp;I'm a Software Engineer in constant learning✨\
  &nbsp;✨ Passionately tech enthusiast \
  &nbsp;🤓 I’m currently studying & practicing data science\
- &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks \
+ &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks
  
 #### 🛠 &nbsp;Tech Stack
 
