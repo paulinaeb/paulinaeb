@@ -2,10 +2,9 @@
 
 #### 👨🏻‍💻 &nbsp;About Me
 
- &nbsp;I'm a Software Engineer in constant learning✨\
+ &nbsp;I'm a Software Engineer and Data Scientist✨\
  &nbsp;✨ Passionately tech enthusiast \
- &nbsp;🤓 I’m currently studying & practicing data science\
- &nbsp;💬 Ask me about databases, data structures or any logic for specific tasks
+ &nbsp;🤓 I’m always learning something new!\
  
 #### 🛠 &nbsp;Tech Stack
 
@@ -29,5 +28,4 @@
 <p>
 <a href="https://linkedin.com/in/paulinaeb"><img src="https://img.shields.io/badge/-Paulina%20Espejo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pdespejo18@gmail.com"><img src="https://img.shields.io/badge/-pdespejo18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/paulinaeb_"><img src="https://img.shields.io/badge/-@paulinaeb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
