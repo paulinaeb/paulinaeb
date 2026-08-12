@@ -1,31 +1,45 @@
-<h3>Hey there! I'm Pau👋</h3>
+# Hi, I'm Paulina 👋
 
-#### 👨🏻‍💻 &nbsp;About Me
+### Software Engineer · Data Scientist · Builder at heart
 
- &nbsp;I'm a Software Engineer and Data Scientist✨\
- &nbsp;✨ Passionately tech enthusiast \
- &nbsp;🤓 I’m always learning something new!\
- 
-#### 🛠 &nbsp;Tech Stack
+I'm a software engineer who enjoys seeing the **whole picture** — from understanding a problem and designing a solution to building, shipping, and improving it.
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
-![NoSQL](https://img.shields.io/badge/-NoSQL-05122A?style=flat&logo=NoSQL)&nbsp;
+My background sits at the intersection of **software engineering, data, AI, and technical leadership**. Over the last few years, I've worked on full-stack SaaS products, automation, APIs, data pipelines, research, and machine learning — while also having the opportunity to lead engineering teams and teach Algorithms & Data Structures.
 
+```python
+paulina = {
+    "based_in": "Cologne, Germany 🇩🇪",
+    "background": ["Software Engineering", "Data Science"],
+    "curious_about": ["AI", "Product", "Data"],
+    "languages": ["Spanish 🇻🇪", "English", "German 🌱"],
+    "philosophy": "Understand deeply. Build thoughtfully. Keep learning."
+}
+```
 
-#### 🤝🏻 &nbsp;Connect with Me
+## A little more about me
 
-<p>
-<a href="https://linkedin.com/in/paulinaeb"><img src="https://img.shields.io/badge/-Paulina%20Espejo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pdespejo18@gmail.com"><img src="https://img.shields.io/badge/-pdespejo18@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+🎓 MSc in **Data Science** from ELTE, with research on the cybersecurity job market using NLP and 250K+ job postings.
+
+💻 **5+ years building software**, from full-stack platforms and REST APIs to automation and data-intensive systems.
+
+🧭 Experience **leading software teams** and turning ideas, requirements, and sometimes messy legacy systems into useful tools.
+
+👩‍🏫 Former **Algorithms & Data Structures professor** — because understanding something well enough to explain it is one of my favorite ways to learn.
+
+🌎 Originally from Venezuela, shaped by experiences across different countries, disciplines, and roles. I like technology, but I'm even more interested in **what we can do with it**.
+
+## Things I work with
+
+**Software** · Python · PHP · JavaScript · TypeScript · Laravel · React · Next.js · Flask
+**Data & AI** · PostgreSQL · Pandas · Scikit-learn · PyTorch · Transformers · NLP
+**Building & shipping** · Docker · GitHub Actions · REST APIs · CI/CD · Agile
+
+---
+
+### Currently
+
+🌱 Exploring where **software engineering + AI + data** can create genuinely useful products
+🇩🇪 Learning German, one `der/die/das` at a time :) 
+🛠️ Building, experimenting, and probably refactoring something
+
+**[LinkedIn](https://linkedin.com/in/paulinaeb)**
