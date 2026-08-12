@@ -38,8 +38,8 @@ paulina = {
 
 ### Currently
 
-🌱 Exploring where **software engineering + AI + data** can create genuinely useful products
-🇩🇪 Learning German, one `der/die/das` at a time :) 
+🌱 Exploring where **software engineering + AI + data** can create genuinely useful products<br>
+🇩🇪 Learning German, one `der/die/das` at a time :) <br>
 🛠️ Building, experimenting, and probably refactoring something
 
-**[LinkedIn](https://linkedin.com/in/paulinaeb)**
+**[LinkedIn](https://linkedin.com/in/paulinaeb)** · **[Email](mailto:pdespejo18@gmail.com)**
