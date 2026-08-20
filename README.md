@@ -18,13 +18,13 @@ paulina = {
 
 ## A little more about me
 
-🎓 MSc in **Data Science** from ELTE, with research on the cybersecurity job market using NLP and 250K+ job postings, soon available in Springer!
+🎓 MSc in **Data Science** from ELTE, with research on the cybersecurity job market using NLP and 250K+ job postings, soon available on Springer!
 
 💻 **5+ years building software**, from full-stack platforms and REST APIs to automation and data-intensive systems.
 
 🧭 Experience **leading software teams** and turning ideas, requirements, and sometimes messy legacy systems into useful tools.
 
-👩‍🏫 Former **Algorithms & Data Structures professor**, explaining fundamentals reminded me that basics nerver go out of style :)
+👩‍🏫 Former **Algorithms & Data Structures professor**, explaining fundamentals reminded me that basics nerver go out of style.
 
 🌎 Originally from Venezuela, shaped by experiences across different countries, disciplines, and roles.
 
