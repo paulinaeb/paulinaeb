@@ -30,8 +30,8 @@ paulina = {
 
 ## Things I work with
 
-**Software** · Python · PHP · JavaScript · TypeScript · Laravel · React · Next.js · Flask
-**Data & AI** · PostgreSQL · Pandas · Scikit-learn · PyTorch · Transformers · NLP
+**Software** · Python · PHP · JavaScript · TypeScript · Laravel · React · Next.js · Flask <br>
+**Data & AI** · PostgreSQL · Pandas · Scikit-learn · PyTorch · Transformers · NLP <br>
 **Building & shipping** · Docker · GitHub Actions · REST APIs · CI/CD · Agile
 
 ---
